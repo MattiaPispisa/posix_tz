@@ -1,8 +1,9 @@
 name: posix_tz
-description: Posix timezones database
+description: Posix timezones package. This package is designed to simplify working with timezones, allowing developers to read and write timezones in posix standard.
+version: 1.0.2
 homepage: https://mattiapispisa.github.io/
 repository: https://github.com/MattiaPispisa/posix_tz
-version: 1.0.1
+topics: [date, datetime, timezone, posix]
 
 environment:
   sdk: ">=2.12.0 <4.0.0"

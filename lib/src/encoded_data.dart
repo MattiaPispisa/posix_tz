@@ -1,3 +1,4 @@
+/// thanks to [nayarsystems](https://github.com/nayarsystems/posix_tz_db/blob/master/zones.json) to generates POSIX timezones reading data from `/usr/share/zoneinfo`.
 final data = {
   "Africa/Abidjan": "GMT0",
   "Africa/Accra": "GMT0",
