@@ -1,0 +1,11 @@
+name: example
+description: Example
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: "^3.3.0"
+
+dependencies:
+  posix_tz:
+    path: ../

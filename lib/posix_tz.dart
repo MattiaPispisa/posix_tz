@@ -1,5 +1,5 @@
 /// Posix timezones database
-library;
+library posix_tz;
 
 export 'src/env.dart';
 export 'src/exceptions.dart';
