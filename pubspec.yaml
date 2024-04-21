@@ -1,9 +1,10 @@
 name: posix_tz
 description: Posix timezones database
+homepage: https://mattiapispisa.github.io/
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dev_dependencies:
   test: ^1.25.2
